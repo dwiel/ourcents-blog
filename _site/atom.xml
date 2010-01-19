@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Michael Bensoussan</title>
+ <link href="http://mickeyben.com/atom.xml" rel="self"/>
+ <link href="http://mickeyben.com/"/>
+ <updated>2010-01-19T01:10:47-05:00</updated>
+ <id>http://mickeyben.com/</id>
+ <author>
+   <name>Michael Bensoussan</name>
+   <email>pada51@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
