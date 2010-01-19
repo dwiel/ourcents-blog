@@ -1,4 +1,4 @@
-h1. This is the data for my blog
+h1. This is the data for blog.ourcents.com
 
 It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever I push this repository to GitHub.
 
@@ -6,7 +6,7 @@ I was tired of having my blog posts end up in a database off on some remote serv
 
 h1. License
 
-The following directories and their contents are Copyright Jason Toy. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Zach Dwiel. You may not reuse anything therein without my permission:
 
 * _posts/
 * images/
