@@ -38,14 +38,14 @@ h1, h2, h3, h4, h5, h6 {
 #post {
 	font-size:20px;
 	line-height:1.5;
-	color: #212122;
+	color: #005555;
 }
 p {
   margin: 1em 0;
 }
 
 a {
-  color: #00a;
+  color: #005555;
 }
 
 a:hover {
@@ -53,7 +53,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #555555;
 }
 
 table {
@@ -104,7 +104,7 @@ ul.posts {
 }
 
   .site .title a {
-    color: #a00;
+    color: #005555;
     text-decoration: none;
   }
   
