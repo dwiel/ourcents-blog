@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Welcome to the OurCents.com Blog"
+---
+
+h1. {{ page.title }}
+
+p(meta). 23 January 2010
+
+After nearly 2 years of discussions and after-hours coding sessions we are 
+nearly ready to start collecting information from artists and labels.  If you
+are or represent an artist or label, hold tight and watch this space for
+updates!
